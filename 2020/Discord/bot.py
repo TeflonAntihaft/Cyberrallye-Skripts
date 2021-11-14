@@ -6,8 +6,8 @@ from pygame import mixer
 
 from dotenv import load_dotenv
 load_dotenv()
-TOKEN = 'NzU4Mzg5Mjk0ODU5MTU3NTQ1.X2uPEg.GOjLJZoMdJdmfNlvs5eHV9eZL_U'
-admins = [248212736578682890]
+TOKEN = '' # add secret token für server here
+admins = [] # add user ids of people wich should be able to give the bot commands here
 
 hint5_1="""**klick**
 Hey, wer da? Ah, hi!

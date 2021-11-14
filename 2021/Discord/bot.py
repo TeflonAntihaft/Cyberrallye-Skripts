@@ -3,8 +3,8 @@ import discord
 from discord.ext import commands
 from random import randrange
 
-TOKEN = 'NzU4Mzg5Mjk0ODU5MTU3NTQ1.X2uPEg.GOjLJZoMdJdmfNlvs5eHV9eZL_U'
-admins = [248212736578682890]
+TOKEN = '' # add secert bot token here
+admins = [] # add user ids of people which are allowed to use the bots commands
 
 welcome_1="""
 ???: "Huch! Was macht ihr denn hier? Wie seid ihr auf mein Schiff gekommen? Wo sind wir jetzt schon wieder gestrandet?"
